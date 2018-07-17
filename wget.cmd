@@ -1,0 +1,1 @@
+wget.exe -r -l 10 -k -o log-file.txt -p https://imennaya-igrushka.ru/  
